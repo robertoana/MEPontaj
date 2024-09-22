@@ -1,0 +1,13 @@
+<svg id="ic_chevron_down" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_347" data-name="Rectangle 347" width="9.962" height="5.481" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <rect id="Box" width="16" height="16" fill="none"/>
+  <g id="Group_685" data-name="Group 685" transform="translate(3 7)">
+    <g id="Group_684" data-name="Group 684" clip-path="url(#clip-path)">
+      <path id="Path_1203" data-name="Path 1203" d="M9.608.354,4.981,4.981.353.354" fill="none" stroke="#13171b" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

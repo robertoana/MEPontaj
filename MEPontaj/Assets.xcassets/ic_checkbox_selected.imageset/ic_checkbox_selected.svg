@@ -1,0 +1,8 @@
+<svg id="ic_checkbox_selected" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <rect id="Box" width="20" height="20" fill="none"/>
+  <rect id="BG" width="20" height="20" rx="10" fill="#009cdd"/>
+  <g id="ic_check" transform="translate(4 4)">
+    <rect id="Rectangle_301" data-name="Rectangle 301" width="12" height="12" fill="none"/>
+    <path id="Path_1170" data-name="Path 1170" d="M.848,5.755,4.178,9.433,9.7,3.333" transform="translate(0.728 0.005)" fill="none" stroke="#fff" stroke-linecap="square" stroke-linejoin="round" stroke-width="1.2"/>
+  </g>
+</svg>
